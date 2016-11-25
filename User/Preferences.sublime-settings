@@ -1,3 +1,25 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme"
+	"folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".DS_Store",
+        "__pycache__",
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        "*.psd"
+    ]
 }
