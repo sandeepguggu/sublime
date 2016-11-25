@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"theme": "Soda SolarizedDark.sublime-theme",
 	"folder_exclude_patterns":
 	[
 		".svn",
