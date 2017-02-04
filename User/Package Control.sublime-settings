@@ -6,11 +6,11 @@
 	"installed_packages":
 	[
 		"Babel",
+		"Boxy Theme",
 		"GitGutter",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
-		"Theme - Soda SolarizedDark",
 		"TrailingSpaces"
 	]
 }
