@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"folder_exclude_patterns":
 	[
 		"node_modules",
@@ -35,7 +35,7 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "Boxy Ocean.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"theme_dirty_accent_blue": true,
 	"theme_find_panel_size_xxs": true,
 	"theme_font_sm": true,
