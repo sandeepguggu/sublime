@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Babel",
 		"Boxy Theme",
 		"GitGutter",
 		"Package Control",
+		"React ES6 Snippets",
 		"Sass",
 		"SideBarEnhancements",
 		"TrailingSpaces"
